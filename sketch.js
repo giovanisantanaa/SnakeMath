@@ -2,7 +2,8 @@
 
 //ESSE LINK É PARA O JOGO EM TELA NORMAL
 //https://preview.p5js.org/giovanisantanaa7/present/-XekSAHgQ
-
+ 
+//////////////////////////////////////////////////
 
 //VARIAVEIS PARA IMAGENS
 let imgBotaoMenu, imgBotaoMenuCor, imgBackground, imgFundoNomeJogo,
